@@ -1,4 +1,4 @@
-![logo](https://github.com/princebhatt9588/princebhatt9588/blob/main/gitbanner.gif)
+![logo](https://github.com/princebhatt9588/princebhatt9588/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hello 👋, I'm Prince Bhatt</h1>
  
   🚀 Welcome to the Data Galaxy: Where Numbers Meet Magic! 🌌
