@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Web3.0**
 
-- 💬 Ask me about **Apache Hadoop, Apache Spark, Apache Kafka, Oracle, Cassandra, MongoDB, Python, Java, JavaScript, SQL, NoSQL, AWS, GCP, Azure Data Factory, Data Warehousing, Data Modeling, Business Impact, Problem-Solving**
+- 💬 Ask me about **Data Enginner or related Domain**
 
 - 📫 How to reach me **princebhatt3744@gmail.com**
 
