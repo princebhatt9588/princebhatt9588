@@ -1,8 +1,7 @@
 ![logo](https://github.com/princebhatt9588/princebhatt9588/blob/main/GitHub%20Banner.png)
-<h1 align="center">Hello 👋, I'm Prince Bhatt</h1>
- 
-  🚀 Welcome to the Data Galaxy: Where Numbers Meet Magic! 🌌
 
+<h1 align="center">🚀 Welcome to the Data Galaxy: Where Numbers Meet Magic! 🌌</h1>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princebhatt9588&label=Profile%20views&color=0e75b6&style=flat" alt="princebhatt9588" > </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princebhatt9588" alt="princebhatt9588" /></a> </p>
