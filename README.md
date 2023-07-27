@@ -6,7 +6,7 @@
 <p>Hey there, fellow data enthusiasts!</p>
 I'm a passionate Data Engineer on a quest to unravel the mysteries hidden within the vast expanse of data. Armed with a keyboard and an unyielding determination, I'm on a mission to transform raw information into golden nuggets of insights.
 
-                                           *🔍 My Data Detective Skills 🔍 *
+                                              🔍 My Data Detective Skills 🔍 
 
 - 📊 Data Wrangling: I can tame the wildest datasets, turning chaotic spreadsheets into well-behaved data companions.
 
@@ -32,7 +32,7 @@ I'm a passionate Data Engineer on a quest to unravel the mysteries hidden within
 
    I'm a strong believer in the power of collaboration and giving back to the data community. You'll often find me contributing to open-source projects, sharing knowledge, and helping others unlock the magic of data engineering.
 
-So, fellow data voyager, come join me on this exhilarating data expedition! Together, we'll unlock the true potential of information and turn it into the fuel that propels us towards a brighter, data-driven future.
+## So, fellow data voyager, come join me on this exhilarating data expedition! Together, we'll unlock the true potential of information and turn it into the fuel that propels us towards a brighter, data-driven future.
 
 May your queries be optimized, and your data flow ever smooth!
 
